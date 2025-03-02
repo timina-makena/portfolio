@@ -11,7 +11,7 @@
     --body-font: "Cormorant Garamond Static", serif;
     --tertiary-color: #FFE2E2;
     --tertiary-color: #56021F;
-    --tertiary-color: #A31D1D;
+    --tertiary-color: #3D0301;
     --tertiary-color: #09122C; 
     
 }
@@ -59,7 +59,7 @@ nav a{
 nav a:hover{
     background-color: #56021F;
     text-decoration: underline;
-    color: #A31D1D;
+    color: #3D0301;
 }
 
 h1{
