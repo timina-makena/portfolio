@@ -57,9 +57,9 @@ nav a{
 }
 
 nav a:hover{
-    background-color: #56021F;
+    background-color: #825B32;
     text-decoration: underline;
-    color: #3D0301;
+    color: #FFE2E2;
 }
 
 h1{
